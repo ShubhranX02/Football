@@ -1,8 +1,13 @@
 # Football
 Football With Python!
-Have Python Installed! After Doing That:
-- Either Convert To `.exe`
-OR
-- Install Pygame To Your Computer By Typing `pip install pygame` In Your Command Prompt. 
+
+Open `.exe` File To Play Directly!
+Source Code In The `.py` File!
+
+Rules:
+- This Is A Two Player Game.
+- First Player: WASD For Movement, E For Switching Players And Q For Shooting.
+- Second Player: Arrows For Movement, RSHIFT For Switching Players And RCONTROL For Shooting.
+
 
 Enjoy!
